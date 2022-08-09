@@ -4,3 +4,15 @@ SDETs take part in complete software development process as well as software tes
 SDET professional’s knowledge is entirely focused on testability, robustness and performance of software testing and development process.
 
 They are also able to play a contributory or reviewer role in the creation of designs for production software.
+
+
+SDET	Manual Tester
+Knows the entire system start to end	Limited knowledge about the system
+SDET is involved in every step of the software development process like
+Designing, development, and testing.
+
+QA is only involved in the testing life cycle of the software development process.
+Highly skilled professional with development as well as testing knowledge.	Software tester is only involved in preparing and executing the test cases
+SDET can participate in test automation tool development and may make it for generic use.	Not expected to develop test automation tools or frameworks.
+SDETs need to perform duties like performance testing, automated generation of test data, etc.	Only testing related task will be performed by the tester.
+Know requirements and guidelines for the products	No such knowledge expected from QA professionals.
