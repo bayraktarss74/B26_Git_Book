@@ -1,0 +1,27 @@
+
+
+What are the roles and responsibilities of an SDET?
+SDET should able to perform Test Automation and setting up frameworks on multiple application platforms like Web, Mobile, and Desktop.
+Investigate customer problems referred by the technical support team.
+Create & manage bug reports and communicate with the team.
+Able to build different test scenarios and acceptance tests.
+SDET needs to handle technical communications with Partners to understand client’s systems or APIs.
+SDET also work with deployments teams and resolving any level issues for the system.
+SDET should also able to set up, maintain, and operate test automation frameworks.
+The above are key skills and responsibilities of SDET. They may vary with different companies.
+
+Salary
+The salary structure of a SDET varies from company to company. The average annual salary for a Software Development Engineer in Test (SDET) is ₹6,92,692 in India and $74,291 in the USA.
+
+An SDET is also given health insurance, gratuity, and other perks.
+
+Typical Work Day
+On a daily basis, you will be busy understanding project documents, creating & executing test cases, reporting, and testing bugs. You will also put your inputs to designing team, suggest development team and other team building activities.
+
+Career Progression
+Your career progression as a SDET in typical CMMI level 5 company will look like following but will vary from company to company
+
+SDET (Fresher) => Sr. SDET (2-3 years’ experience) => SDET Team Coordinator (5-8 years’ experience> =>SDET Manager (8+ years’ experience)
+
+Conclusion
+A SDET professional is a mix of developer as well as a tester who has exposure to project management. This all in one type of skill set make the SDET jobs more challenging and highly demanding in the current market.
