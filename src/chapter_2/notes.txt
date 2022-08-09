@@ -25,3 +25,12 @@ SDET (Fresher) => Sr. SDET (2-3 years’ experience) => SDET Team Coordinator (5
 
 Conclusion
 A SDET professional is a mix of developer as well as a tester who has exposure to project management. This all in one type of skill set make the SDET jobs more challenging and highly demanding in the current market.
+
+
+Benefits of SDET professional:
+
+SDETs professionals can automate the acceptance test by leveraging their coding skills
+These professionals deal with end users or customers and their experiences. They already possessed engineering skills so they can also think like a developer.
+Extensive code coverage through unit testing
+Can build, deploy, run & manage the application individually
+Influence the development, program management, & design teams on technical implementation and user scenarios
